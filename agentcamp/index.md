@@ -49,7 +49,7 @@ Organizers receive **recognition, resources, and visibility** for helping grow t
 You can look forward to:
 
 - **[1 Keynote Video](https://www.youtube.com/watch?v=uMMusrdRHZA)** - 15 minutes  
-- **[3 Workshops](/agentcamp/content#new-workshops)** - 90 minutes each  
+- **[4 Workshops](/agentcamp/content#new-workshops)** - 90 minutes each  
 - **[Presentation Deck](https://gaic.io/agentcamp-2026-slidedeck/)**
     - File > Create a copy > Download the copy
     - This presentation also has speaker's graphics templates and genereic event graphics
